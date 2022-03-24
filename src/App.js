@@ -2,16 +2,20 @@
 import './App.css';
 import React from 'react';
 import { ChatEngine } from 'react-chat-engine';
+import  ChatFeed  from './ChatFeed.js'; 
 
 export function App() {
 	return (
 
     <>
-		<ChatEngine
+		
+    <ChatEngine
+
 			height='100vh'
 			userName='Pietro'
 			userSecret='300488'
-			projectID='86c552c5-4ac8-48ce-833d-110b19653591'
+			projectID='777a7252-fd29-4f52-88d8-756a06d71449'
+      renderChatFeed={chatAppState => <ChatFeed {...chatAppState}/>}
 		/>
 
     </>
