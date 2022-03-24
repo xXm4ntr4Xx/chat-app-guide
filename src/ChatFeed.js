@@ -28,7 +28,7 @@ function ChatFeed(props) {
                 }
               </div>
               <div className='read-receipts' style={{marginRight: isMyMessage ? '0px' : '68px'}}>
-                  read-receipts
+                  {/* read-receipts */}
               </div>
           </div>
         )
