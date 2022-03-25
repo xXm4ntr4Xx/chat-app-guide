@@ -21,25 +21,27 @@ Create a live Chat
 <img width="614" alt="Screenshot 2022-03-24 at 14 52 50" src="https://user-images.githubusercontent.com/74420607/159943998-be9d3a7f-d6b5-469a-85cc-be5bfc2d3a0d.png">
 
 <hr/>
+4. we need to create a chat on chatengine site
 
+<img width="1424" alt="Screenshot 2022-03-25 at 12 53 01" src="https://user-images.githubusercontent.com/74420607/160124222-64d0ac9d-1b5a-4b9f-8ede-87813540a736.png">
 
-
-4.This is the result,we are able to send  message
+<hr/>
+5.This is the result,we are able to send  message
 
 <img width="661" alt="Screenshot 2022-03-25 at 12 20 58" src="https://user-images.githubusercontent.com/74420607/160119751-30d45a78-493f-4eb8-8d89-ed801eed1cf1.png">
-<hr/>
 
-5.In the image above we can see two extra user on the chat because we add a direct messaging option
+<hr/>
+6.In the image above we can see two extra user on the chat because we add a direct messaging option
 
 <img width="160" alt="Screenshot 2022-03-25 at 12 23 38" src="https://user-images.githubusercontent.com/74420607/160120119-91b25ba0-7099-4d14-a856-9952d3d58faf.png">
 
 <hr/>
-6.we create a components where we import chatengine and a getorcreatechat
+7.we create a components where we import chatengine and a getorcreatechat
 
 <img width="372" alt="Screenshot 2022-03-25 at 12 26 12" src="https://user-images.githubusercontent.com/74420607/160120514-a0301e2b-5f7c-4c2e-bf8d-b7517f953b6b.png">
 
 
-7.if we want multiple person on the same chat we set the different chat engine components with different username and password(userSecret) and we pass the same project id for all the user involved
+8.if we want multiple person on the same chat we set the different chat engine components with different username and password(userSecret) and we pass the same project id for all the user involved
 
 - we wrote a message with Tom's account
 - 
@@ -53,10 +55,13 @@ Create a live Chat
 
 <img width="300" alt="Screenshot 2022-03-25 at 12 44 55" src="https://user-images.githubusercontent.com/74420607/160123079-aa7214e1-e8ab-4e5d-9de0-8058652dc3d3.png">
 
+-and people need to be present on chat engine chat as chat members(we click on chat and on member icon)
+
+<img width="1366" alt="Screenshot 2022-03-25 at 12 56 04" src="https://user-images.githubusercontent.com/74420607/160124682-d296f1df-826d-4fce-bb26-3a8022dcb027.png">
 
 <hr/>
 
-8. This is the result on chat app with all the users involved
+9. This is the result on chat app with all the users involved
 
 <img width="658" alt="Screenshot 2022-03-25 at 12 47 22" src="https://user-images.githubusercontent.com/74420607/160123420-46c8b2d2-91b8-46fe-b965-e614bdeff44a.png">
 
